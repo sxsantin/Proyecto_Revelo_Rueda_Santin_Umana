@@ -1,0 +1,63 @@
+2024-12-14 08:55:18 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 08:55:20 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 08:55:22 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 08:55:24 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 08:55:25 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 08:55:27 - Acción realizada por 'hola2': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 08:56:23 - Acción realizada por 'hola': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 08:56:31 - Acción realizada por 'queso': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 08:56:35 - Acción realizada por 'queso': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 08:56:58 - Inicio de sesión de usuario 'hola' con éxito.
+2024-12-14 08:57:30 - Inicio de sesión de usuario 'hola' con éxito.
+2024-12-14 09:02:14 - Inicio de sesión de usuario 'hola' con éxito.
+2024-12-14 09:02:33 - Acción realizada por 'hola': Creó el producto con ID 15.
+2024-12-14 09:03:16 - Acción realizada por 'hola': Creó la categoría con ID 12.
+2024-12-14 09:03:45 - Acción realizada por 'hola': Creó la categoría con ID 13.
+2024-12-14 09:07:12 - Inicio de sesión de usuario 'hola' con éxito.
+2024-12-14 09:07:25 - Acción realizada por 'hola': Creó la categoría con ID 14.
+2024-12-14 10:43:37 - Inicio de sesión de usuario 'asado' con fallo.
+2024-12-14 10:47:56 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 10:48:21 - Inicio de sesión de usuario 'queso3' con éxito.
+2024-12-14 10:48:34 - Acción realizada por 'queso3': Eliminó la categoría con ID 4.
+2024-12-14 10:48:48 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 10:48:50 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 10:48:51 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 10:48:53 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 10:48:55 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 10:48:57 - Acción realizada por 'queso3': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 10:49:07 - Acción realizada por 'queso3': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 10:53:42 - Inicio de sesión de usuario 'queso3' con éxito.
+2024-12-14 11:08:40 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 11:08:42 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 11:08:44 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 11:08:45 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 11:08:46 - Inicio de sesión de usuario 'queso3' con fallo.
+2024-12-14 11:08:48 - Acción realizada por 'queso3': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 11:09:07 - Acción realizada por 'queso3': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 11:09:23 - Inicio de sesión de usuario 'queso3' con éxito.
+2024-12-14 11:09:48 - Acción realizada por 'queso3': Creó el producto con ID 16.
+2024-12-14 11:09:59 - Acción realizada por 'queso3': Eliminó el producto con ID 16.
+2024-12-14 11:10:16 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 11:13:45 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 11:20:09 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 11:20:31 - Inicio de sesión de usuario 'hola' con éxito.
+2024-12-14 11:20:53 - Acción realizada por 'hola': Creó el producto con ID 17.
+2024-12-14 11:21:07 - Acción realizada por 'hola': Eliminó el producto con ID 17.
+2024-12-14 11:21:18 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 11:21:59 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 11:22:01 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 11:22:02 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 11:22:03 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 11:22:05 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 11:22:08 - Acción realizada por 'hola2': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 11:22:25 - Acción realizada por 'hola2': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 11:25:05 - Acción realizada por 'queso6': Intento de inicio de sesión bloqueado por demasiados intentos fallidos.
+2024-12-14 11:25:20 - Inicio de sesión de usuario 'queso6' con fallo.
+2024-12-14 11:25:30 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 12:15:14 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 12:15:42 - Inicio de sesión de usuario '123' con fallo.
+2024-12-14 12:17:17 - Inicio de sesión de usuario 'hola2' con fallo.
+2024-12-14 12:18:49 - Inicio de sesión de usuario '/*' con fallo.
+2024-12-14 12:23:17 - Inicio de sesión de usuario 'hola2' con éxito.
+2024-12-14 12:24:54 - Inicio de sesión de usuario 'hola' con éxito.
+2024-12-14 12:27:03 - Acción realizada por 'hola': Actualizó el producto con ID 14.
